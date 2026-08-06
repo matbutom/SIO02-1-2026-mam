@@ -1,6 +1,8 @@
 # SIO02-1-2026-mam
 curso seminario - Valentina Montero
 
+Fichas de lectura semanales: entrelazar nuestra obra/práctica con los textos.
+
 ## Clases
 
 | Clase | Fecha | Carpeta |
