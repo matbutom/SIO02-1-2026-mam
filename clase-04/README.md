@@ -1,6 +1,6 @@
 # clase-04
 
-Miércoles 26 de agosto de 2026
+Miércoles 2 de septiembre de 2026
 
 Profesora: Valentina Montero
 
